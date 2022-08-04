@@ -1,0 +1,5 @@
+1-14 blob storage
+15-23 file storage
+24-27 queue storage
+28-33 table storage
+
