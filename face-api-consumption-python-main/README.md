@@ -1,4 +1,6 @@
 ﻿# Consumo de la API de Face de los coginitive Services de Azure
+#CREDITOS A : josejesusguzman
+#Sacado desde la documentacion de josejesusguzman (Es solo formato de estudio para llegar a utilizarlo)
 
 Detección de edad, genero, lentes y emociones por medio de una selfie 🤳
 
